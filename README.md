@@ -6,19 +6,19 @@ This project explores a synthetic dataset of sleep health and lifestyle factors 
 ## Dataset
 The dataset contains the following columns:
 
-- **Person ID**: Unique identifier for each individual.
-- **Gender**: Gender of the individual.
-- **Age**: Age in years.
-- **Occupation**: Profession or occupation.
-- **Sleep Duration**: Average number of hours of sleep per day.
-- **Quality of Sleep**: Subjective rating on a scale of 1 to 10.
-- **Physical Activity Level**: Average number of minutes spent in physical activity daily.
-- **Stress Level**: Subjective stress rating on a scale of 1 to 10.
-- **BMI Category**: Categorized body mass index (e.g., Underweight, Normal, Overweight, Obese).
-- **Blood Pressure**: Systolic/Diastolic blood pressure readings.
-- **Heart Rate**: Heart rate in beats per minute (BPM).
-- **Daily Steps**: Average number of steps taken daily.
-- **Sleep Disorder**: Indicates if the person has a sleep disorder (None, Insomnia, or Sleep Apnea).
+- `Person ID`
+- `Gender`
+- `Age`
+- `Occupation`
+- `Sleep Duration`: Average number of hours of sleep per day
+- `Quality of Sleep`: A subjective rating on a 1-10 scale
+- `Physical Activity Level`: Average number of minutes the person engages in physical activity daily
+- `Stress Level`: A subjective rating on a 1-10 scale
+- `BMI Category`
+- `Blood Pressure`: Indicated as systolic pressure over diastolic pressure
+- `Heart Rate`: In beats per minute
+- `Daily Steps`
+- `Sleep Disorder`: One of `None`, `Insomnia` or `Sleep Apnea`
 
 ## Objectives
 ### Data Exploration and Analysis:
