@@ -65,7 +65,7 @@ This project demonstrates the importance of lifestyle factors in sleep health an
 
 ### Folder Structure
 ```
-project/
+sleep_health_and_life_style/
 │
 ├── data/
 │   ├── data.csv  # Dataset file
