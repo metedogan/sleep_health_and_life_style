@@ -69,10 +69,12 @@ sleep_health_and_life_style/
 │
 ├── data/
 │   ├── data.csv  # Dataset file
+│   ├── cleaned_data.csv  # Clean Dataset file
 │
 ├── notebooks/
-│   ├── exploration.ipynb  # Data exploration and visualization
-│   ├── modeling.ipynb     # Machine learning models
+│   ├── data_cleaning.ipynb  # Data cleaning
+│   ├── exploration.ipynb    # Data exploration and visualization
+│   ├── modeling.ipynb       # Machine learning models
 │
 ├── outputs/
 │   ├── visualizations/    # Saved plots and charts
